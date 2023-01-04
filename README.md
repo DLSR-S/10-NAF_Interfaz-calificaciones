@@ -1,5 +1,5 @@
 # 10-NAF_Interfaz-calificaciones
-Así se ve la interfaz
+Así se ve la interfaz, desplega 3 acciones.
 ![00](https://user-images.githubusercontent.com/78241176/210634035-977b77df-13ce-4624-b42e-49e2fb59a014.jpg)
 ![01](https://user-images.githubusercontent.com/78241176/210634419-e8e452e3-33ef-4514-8e13-dd905fff17c7.jpg)
 ![02](https://user-images.githubusercontent.com/78241176/210634423-27b98a41-3fdb-4101-8dd7-a0703fee9b2f.jpg)
